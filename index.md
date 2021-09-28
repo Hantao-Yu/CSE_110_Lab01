@@ -13,7 +13,7 @@ I am a senior at [UCSD](https://ucsd.edu/)
 
 [Contribution guidelines for this project](README.md)
 
-## [section link](https://math.ucsd.edu/)
+## [section link](https://www.google.com/)
 
 My interests include:
 - Theoretical Computer Science
