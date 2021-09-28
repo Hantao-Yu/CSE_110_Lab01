@@ -2,7 +2,7 @@
 
 **This website is constructed as the first lab of CSE 110**
 
-<img align = "center" width = "220" src="screenshot_1.png"/>
+![Drag Racing](screenshot_1.png)
 
 In the words of Abraham Lincoln:
 > Pardon my French
@@ -13,7 +13,7 @@ I am a senior at [UCSD](https://ucsd.edu/)
 
 [Contribution guidelines for this project](README.md)
 
-## [section link](https://www.google.com/)
+## [google](https://www.google.com/)
 
 My interests include:
 - Theoretical Computer Science
