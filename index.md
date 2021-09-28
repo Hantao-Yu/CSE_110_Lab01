@@ -2,7 +2,7 @@
 
 **This website is constructed as the first lab of CSE 110**
 
-![image](screenshot 1.png)
+<img align = "center" width = "220" src="screenshot_1.png" class="img-responsive" alt="" />
 
 In the words of Abraham Lincoln:
 > Pardon my French
@@ -12,6 +12,8 @@ Use `git status` to list all new or modified files that haven't yet been committ
 I am a senior at [UCSD](https://ucsd.edu/)
 
 [Contribution guidelines for this project](README.md)
+
+## [section link](actual_link)
 
 My interests include:
 - Theoretical Computer Science
