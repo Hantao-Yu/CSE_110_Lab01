@@ -2,6 +2,8 @@
 
 **This website is constructed as the first lab of CSE 110**
 
+![image](screenshot 1.png)
+
 In the words of Abraham Lincoln:
 > Pardon my French
 
