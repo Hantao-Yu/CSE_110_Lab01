@@ -2,7 +2,7 @@
 
 **This website is constructed as the first lab of CSE 110**
 
-![Drag Racing](/screenshot_1.png)
+![Pic](/screenshots/screenshot_1.png)
 
 In the words of Abraham Lincoln:
 > Pardon my French
